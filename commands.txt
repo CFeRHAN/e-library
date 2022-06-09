@@ -1,0 +1,3 @@
+# use these commands to run the docker container
+docker build --tag e-library .
+docker-compose up --build
